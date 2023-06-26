@@ -1,0 +1,70 @@
+/* Google font used*/
+  @import url('https://fonts.googleapis.com/css2?family=Cormorant&display=swap');
+
+  /*Settings throughout the page*/
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+  }
+
+  /* Making all fonts the same through page*/
+  li, a, button {
+    font-family: "Cormorant", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: whitesmoke;
+    text-decoration: none;
+  }
+
+  /* Header settings*/
+  header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 30px 10%;
+  }
+
+  /* Nav bar settings*/
+  nav {
+   order: 1;
+}
+
+.nav_link {
+    list-style: none;
+}
+
+li {
+    display: inline-block;
+    padding: 0px 20px;
+    margin-left: 25px;
+}
+
+.nav-link li a {
+    transition: all 0.3s ease 0;
+}
+
+a:hover {
+    color: lightgreen;
+}
+
+.cta {
+    order: 2;
+}
+
+/* Contact button characteristics*/
+button {
+    margin-left: 20px;
+    padding: 9px 25px;
+    background-color: olivedrab;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0;
+}
+
+button:hover {
+    background-color: green;
+}
+
