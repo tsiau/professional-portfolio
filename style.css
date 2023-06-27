@@ -378,7 +378,6 @@ p {
     font-family: "Cormorant", sans-serif;
     cursor: pointer;
 }
-
 .contact-in-textarea::placeholder {
     color: #fff;
 }
