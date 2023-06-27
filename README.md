@@ -76,6 +76,8 @@ This Challenge is graded based on the following criteria:
 
 * Application GitHub URL submitted.
 
+GitHub URL : https://tsiau.github.io/professional-portfolio/
+
 * GitHub repository contains application code.
 
 ### Application Quality: 15%
@@ -93,6 +95,17 @@ This Challenge is graded based on the following criteria:
 * Repository contains multiple descriptive commit messages.
 
 * Repository contains quality readme with description, screenshot, link to deployed application.
+
+Screenshots : 
+<img width="1728" alt="image" src="https://github.com/tsiau/professional-portfolio/assets/135296454/28f9ed54-6db9-4ab5-a70b-64e5bfc681f4">
+
+<img width="1728" alt="image" src="https://github.com/tsiau/professional-portfolio/assets/135296454/ff2425cc-4a46-4a54-9554-e759146951ed">
+
+<img width="1728" alt="image" src="https://github.com/tsiau/professional-portfolio/assets/135296454/1978e64e-4c92-4404-a9e7-6624e3cf6f38">
+
+<img width="1728" alt="image" src="https://github.com/tsiau/professional-portfolio/assets/135296454/855a65ed-e611-4ada-a29a-6833dfccd5fd">
+
+<img width="1728" alt="image" src="https://github.com/tsiau/professional-portfolio/assets/135296454/318063f1-424b-4195-9217-a5044542c9a4">
 
 ## Review
 
