@@ -67,7 +67,7 @@ button {
     padding: 9px 25px;
     background-color: lightseagreen;
     border: none;
-    border-radius: 50px;
+    border-radius: 30px;
     cursor: pointer;
     transition: all 0.3s ease 0;
     font-size: 25px;
